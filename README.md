@@ -31,6 +31,6 @@ Right now, the main purpose of this bot is for my Senior Project. Which, if you 
 The bot it not fully complete! There are still a lot of functionalities that need to be worked on. These include the music functionality, the chat leveling system, and the custom rank generator. So I apologize for misleading a bit!
 
 ## Contacts
-[Twitter](https://twitter.com/TeraArray)
-[Email](mailto:teraarray@gmail.com)
-[Steam](https://steamcommunity.com/TeraArray)
+- [Twitter](https://twitter.com/TeraArray)
+- [Email](mailto:teraarray@gmail.com)
+- [Steam](https://steamcommunity.com/TeraArray)
