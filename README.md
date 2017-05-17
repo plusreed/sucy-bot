@@ -7,7 +7,7 @@
 *(please note that not all these functions are completely done yet. this entire readme file is just a placeholder.)*
 
 ## About
-SucyBot is a [Discord bot](https://discordapp.com/developers/docs/intro) that utilizes [Discord.net](https://github.com/RogueException/Discord.Net) *(which is also a NuGet package within Visual Studio)*.
+SucyBot is a [Discord bot](https://discordapp.com/developers/docs/intro) that utilizes [Discord.Net](https://github.com/RogueException/Discord.Net) *(which is also a NuGet package within Visual Studio)*.
 
 There are many features that are included within SucyBot's source code. These include:
 - Music functionality. (WIP)
@@ -26,9 +26,9 @@ There are many features that are included within SucyBot's source code. These in
 5. Ta-da! You're done!
 
 ## Additional Information
-Right now, the main purpose of this bot is for my Senior Project. Which, if you cannot tell, is to create a Discord bot with original source code. So some updates are guarenteed to be weekly.
+Right now, the main purpose of this bot is for my Senior Project. Which, if you cannot tell, is to create a Discord bot with original source code. So some updates are guaranteed to be weekly.
 
-The bot it not fully complete! There are still a lot of functionalities that need to be worked on. These include the music functionality, the chat leveling system, and the custom rank generator. So I apologize for misleading a bit!
+The bot is **not** fully complete! There are still a lot of functionalities that need to be worked on. These include the music functionality, the chat leveling system, and the custom rank generator. So I apologize for misleading a bit!
 
 ## Contacts
 - [Twitter](https://twitter.com/TeraArray)
